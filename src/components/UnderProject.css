@@ -1,0 +1,38 @@
+.para1{
+    margin-left: 400px;
+    font-size: 35px;
+    font-family: "IBM Plex Serif",Big Caslon,serif;
+    letter-spacing: -.035em;
+    color: #555555;
+}
+.para2{
+    margin-left: 400px;
+    font-size: 35px;
+    font-family: "IBM Plex Serif",Big Caslon,serif;
+    letter-spacing: -.035em;
+    color: grey; 
+}
+.date{
+    margin-left: 1000px;
+    color: grey;
+    font-size: 20px;
+    display: inline;
+}
+.event{
+    margin: 0;
+    display: inline;
+    font-size: 35px;
+    font-family: "IBM Plex Serif",Big Caslon,serif;
+    letter-spacing: -.035em;
+    color: grey;
+}
+.event-read{
+    margin: 0;
+    display: inline;
+    color: black;
+}
+hr{
+    margin-left:900px;
+    width: 43%;
+}
+

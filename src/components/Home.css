@@ -1,0 +1,17 @@
+.FeaturedContainer--hero__videoPlayer--2G3Qo  {
+    position: absolute;
+    top: auto;
+    left: auto;
+    margin-top: 100px;
+    width: 70%;
+    height: 70%;
+    min-width: 0;
+    min-height: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    transform: none;
+}
+ .FeaturedContainer--hero__videoPlayer--2G3Qo, .FeaturedContainer--hero--2HSke.FeaturedContainer--isReady--W10fA .FeaturedContainer--hero__videoPlayer--2G3Qo video {
+    transition: transform .5s ease-in-out;
+}
+@media (min-width: 720px)

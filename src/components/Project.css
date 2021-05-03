@@ -1,0 +1,43 @@
+.column {
+    margin-top: 150px;;
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .column1{
+      margin-top:80px;
+  }
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .project{
+      max-width: 100%;
+      height: 680px;
+      margin-left: 350px;
+  }
+  .project:hover{
+    transform: scale(0.9);
+  }
+  .pn1{
+      margin-left: 400px;
+      font-size: 20px;
+      font-weight: 500;
+      color: black;
+  }
+  .pd1{
+      margin-left: 420px;
+      color: grey;
+  }
+  .pn2{
+    margin-left: 1200px;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+}
+.pd2{
+    margin-left: 1180px;
+    color: grey;
+}
